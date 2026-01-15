@@ -60,8 +60,6 @@ Web Application ── API ── Mobile App
 ## 📄 Files Included
 - Cyber_Security_Basics_Task1.pdf
 - README.md
-- Diagrams (PNG)
-
 ---
 
 ## 🎯 Learning Outcome
