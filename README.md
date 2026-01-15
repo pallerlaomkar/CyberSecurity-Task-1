@@ -29,11 +29,11 @@ cyber security fundamentals, attack surfaces, and OWASP Top 10 vulnerabilities.
 
 (```User
       ↓
-Web / Mobile Application
+```Web / Mobile Application
       ↓
-Server / Backend
+```Server / Backend
       ↓
-Database```)
+```Database```)
 
 
 ### Attack Surface Diagram
