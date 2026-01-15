@@ -25,7 +25,9 @@ cyber security fundamentals, attack surfaces, and OWASP Top 10 vulnerabilities.
 
 ## 📊 Diagrams
 
-### Data Flow Diagram
+## 📊 Diagrams
+
+### 🔁 Data Flow Diagram (
 
 User
 ↓
@@ -33,7 +35,9 @@ Web / Mobile Application
 ↓
 Server / Backend
 ↓
-Database
+Database)
+
+
 
 
 ### Attack Surface Diagram
