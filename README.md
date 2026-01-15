@@ -33,7 +33,7 @@ cyber security fundamentals, attack surfaces, and OWASP Top 10 vulnerabilities.
       ↓
 ```Server / Backend
       ↓
-```Database```)
+```Database)
 
 
 ### Attack Surface Diagram
