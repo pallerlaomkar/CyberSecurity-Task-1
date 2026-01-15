@@ -31,12 +31,15 @@ cyber security fundamentals, attack surfaces, and OWASP Top 10 vulnerabilities.
 [ User ]
 
    ↓
+   
 [ Web / Mobile Application ]
 
    ↓
+   
 [ Server / Backend ]
   
    ↓
+   
 [ Database ]
 
 
