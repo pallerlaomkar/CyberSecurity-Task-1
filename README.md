@@ -58,7 +58,7 @@ Web Application ── API ── Mobile App
 ---
 
 ## 📄 Files Included
-- /Task 1-Understanding Cyber Security Basics & Attack Surface.docx
+- Task 1-Understanding Cyber Security Basics & Attack Surface.docx
 - README.md
 ---
 
